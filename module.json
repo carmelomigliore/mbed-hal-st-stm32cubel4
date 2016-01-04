@@ -14,7 +14,7 @@
     "mbed-hal-st-stm32cubel4"
   ],
   "dependencies": {
-    "mbed-hal-st-stm32l4": "~0.0.0"
+    "mbed-hal-st-stm32l4": "carmelomigliore/mbed-hal-st-stm32l4"
   },
   "targetDependencies": {}
 }
