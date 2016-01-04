@@ -1,0 +1,20 @@
+{
+  "name": "mbed-hal-st-stm32cubel4",
+  "version": "0.0.0",
+  "description": "STM32Cube HAL for STM32L4 microcontrollers",
+  "keywords": [],
+  "author": "",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/BSD-3-Clause",
+      "type": "BSD-3-Clause"
+    }
+  ],
+  "extraIncludes": [
+    "mbed-hal-st-stm32cubel4"
+  ],
+  "dependencies": {
+    "mbed-hal-st-stm32l4": "~0.0.0"
+  },
+  "targetDependencies": {}
+}
